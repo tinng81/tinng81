@@ -3,18 +3,13 @@
 <!--END_SECTION:signature-->
 
 
-<!--START_SECTION:visitingCounter-->
-<!-- [![HitCount](http://hits.dwyl.com/tinng81/tinng81.svg)](http://hits.dwyl.com/tinng81/tinng81)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftinng81)](https://hits.seeyoufarm.com)
-<img src="https://komarev.com/ghpvc/?username=tinng81" alt="tinng81" /> -->
-<!--END_SECTION:visitingCounter-->
-
 <!--START_SECTION:profile-->
 |<a href="https://tin.ng/"><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" width="60%" align="center" /><a>|
 | :------------------------------: |
 | **[Tin Nguyen's Development Journal & Personal Blog](https://tin.ng/)**|
-| <a href="https://www.linkedin.com/in/tinng81"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> <a href="https://github.com/tinng81"> <a href="https://www.hackerrank.com/tinng81"><img src="https://img.shields.io/badge/Hackerrank--_.svg?style=social&logo=hackerrank" alt="Hackkerank"></a> <a href="https://twitter.com/tinng81"><img src="https://img.shields.io/twitter/follow/tinng81?label=Twitter&style=social" alt="Twitter"></a> <a href="https://github.com/tinng81"> <img src="https://img.shields.io/github/followers/tinng81.svg?label=GitHub&style=social" alt="GitHub"></a>|
+| <a href="https://www.linkedin.com/in/tinng81"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> <a href="https://github.com/tinng81"> <a href="https://www.hackerrank.com/tinng81"><img src="https://img.shields.io/badge/Hackerrank--_.svg?style=social&logo=hackerrank" alt="Hackkerank"></a> <a href="https://twitter.com/tinng81"><img src="https://img.shields.io/twitter/follow/tinng81?label=Twitter&style=social" alt="Twitter"></a> <a href="https://github.com/tinng81"> <img src="https://img.shields.io/github/followers/tinng81.svg?label=GitHub&style=social" alt="GitHub"></a> <a href="https://github.com/tinng81"> <img src="https://visitor-badge.laobi.icu/badge?page_id=tinng81.tinng81" alt="GitHub"></a>|
 <!--END_SECTION:profile-->
+
 
 <!--START_SECTION:techStack-->
 ### 👨‍💻 Languages and Tools Proficiency
@@ -39,6 +34,7 @@
 [![GitHub][github-sh]](https://github.com/)
 [![Github Actions][ghAction-sh]](https://github.com/features/actions)
 
+
 <!-- Collapsible Top Code section -->
 <!--START_SECTION:topcode-->
 <details>
@@ -54,8 +50,8 @@
 <!--END_SECTION:topcode-->
 <!--END_SECTION:techStack-->
 
-<!--------------- IGNORE BELOW --------------->
 
+<!--------------- IGNORE BELOW --------------->
 <!-- 
     shield.io in-line images 
 -->
