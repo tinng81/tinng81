@@ -6,8 +6,8 @@
 <!--START_SECTION:profile-->
 |<a href="https://tin.ng/"><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" width="60%" align="center" /><a>|
 | :------------------------------: |
-| **[Tin Nguyen's Development Journal & Personal Blog](https://tin.ng/)**|
-| <a href="https://www.linkedin.com/in/tinng81"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> <a href="https://github.com/tinng81"> <a href="https://www.hackerrank.com/tinng81"><img src="https://img.shields.io/badge/Hackerrank--_.svg?style=social&logo=hackerrank" alt="Hackkerank"></a> <a href="https://twitter.com/tinng81"><img src="https://img.shields.io/twitter/follow/tinng81?label=Twitter&style=social" alt="Twitter"></a> <a href="https://github.com/tinng81"> <img src="https://img.shields.io/github/followers/tinng81.svg?label=GitHub&style=social" alt="GitHub"></a> <a href="https://github.com/tinng81"> <img src="https://visitor-badge.laobi.icu/badge?page_id=tinng81.tinng81" alt="GitHub"></a>|
+| **[Tin Nguyen's Development Journal & Personal Blog](https://tin.ng/)** <a href="https://tin.ng"> <img src="https://visitor-badge.laobi.icu/badge?page_id=tinng81.tinng81" alt="Personal Blog"></a>||
+| <a href="https://www.linkedin.com/in/tinng81"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> <a href="https://github.com/tinng81"> <a href="https://www.hackerrank.com/tinng81"><img src="https://img.shields.io/badge/Hackerrank--_.svg?style=social&logo=hackerrank" alt="Hackkerank"></a> <a href="https://twitter.com/tinng81"><img src="https://img.shields.io/twitter/follow/tinng81?label=Twitter&style=social" alt="Twitter"></a> <a href="https://github.com/tinng81"> <img src="https://img.shields.io/github/followers/tinng81.svg?label=GitHub&style=social" alt="GitHub"></a>
 <!--END_SECTION:profile-->
 
 
