@@ -97,14 +97,10 @@
   </tr>
 
   <tr>
-    <th>🌇 GitHub Skyline 3D calendar</th>
-    <th>📅 Isometric commit calendar</th>
+    <th colspan="2">📅 Isometric commit calendar</th>
   </tr>
   <tr>
-    <td align="center">
-      <img alt="" src="https://github.com/tinng81/tinng81/blob/master/assets/metrics.plugin.skyline.svg">
-    </td>
-    <td align="center">
+    <td align="center" colspan="2">
       <img alt="" src="https://github.com/tinng81/tinng81/blob/master/assets/metrics.plugin.isocalendar.fullyear.svg">
     </td>
   </tr>
