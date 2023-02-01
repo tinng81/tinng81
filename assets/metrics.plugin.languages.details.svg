@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="173.97539080506544" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="173.97539080506544" y="0" width="143.7811850306262" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="317.75657583569165" y="0" width="57.23989485093198" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="374.9964706866236" y="0" width="36.47485101128193" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="411.47132169790547" y="0" width="16.954963036887957" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="428.42628473479346" y="0" width="12.490159058088038" height="8" fill="#867db1"/>
-                    <rect mask="url(#languages-bar)" x="440.91644379288147" y="0" width="9.941622279632215" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="450.8580660725137" y="0" width="9.141933927486242" height="8" fill="#b2b7f8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="176.36609498146413" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="176.36609498146413" y="0" width="145.77103421821627" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="322.1371291996804" y="0" width="58.01800078176922" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="380.1551299814496" y="0" width="36.976973104280475" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="417.1321030857301" y="0" width="17.18795174152832" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="434.3200548272584" y="0" width="12.661794111102592" height="8" fill="#867db1"/>
+                    <rect mask="url(#languages-bar)" x="446.981848938361" y="0" width="9.267558934101636" height="8" fill="#b2b7f8"/>
+                    <rect mask="url(#languages-bar)" x="456.24940787246265" y="0" width="3.7505921275373595" height="8" fill="#0298c3"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>43.9 MB</div>
-                                <div>37.82%</div>
+                                <div>38.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -53,7 +53,7 @@
                             </div>
                             <small>
                                 <div>14.4 MB</div>
-                                <div>12.44%</div>
+                                <div>12.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -65,19 +65,19 @@
                             </div>
                             <small>
                                 <div>4.29 MB</div>
-                                <div>3.69%</div>
+                                <div>3.74%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#b2b7f8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C#
+                                Verilog
                             </div>
                             <small>
-                                <div>2.51 MB</div>
-                                <div>2.16%</div>
+                                <div>2.31 MB</div>
+                                <div>2.01%</div>
                             </small>
                         </div>
                     </section>
@@ -91,7 +91,7 @@
                             </div>
                             <small>
                                 <div>36.3 MB</div>
-                                <div>31.26%</div>
+                                <div>31.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>9.22 MB</div>
-                                <div>7.93%</div>
+                                <div>8.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -115,19 +115,19 @@
                             </div>
                             <small>
                                 <div>3.16 MB</div>
-                                <div>2.72%</div>
+                                <div>2.75%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#b2b7f8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#0298c3" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Verilog
+                                Perl
                             </div>
                             <small>
-                                <div>2.31 MB</div>
-                                <div>1.99%</div>
+                                <div>935 kB</div>
+                                <div>0.82%</div>
                             </small>
                         </div>
                     </section>
